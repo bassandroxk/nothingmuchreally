@@ -1,3 +1,4 @@
+/* Q24: Write a program to calculate electricity bill based on units consumed with these rates: */
 
 
 #include <stdio.h>
