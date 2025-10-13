@@ -676,8 +676,36 @@ Output 2:
 0000
 
 */
-day21/q1.c: 
-day21/q2.c: 
+day21/q1.c:Q41: Write a program to swap the first and last digit of a number.
+
+/*
+Sample Test Cases:
+Input 1:
+1234
+Output 1:
+4231
+
+Input 2:
+1001
+Output 2:
+1001
+
+*/ 
+day21/q2.c: Q42: Write a program to check if a number is a perfect number.
+
+/*
+Sample Test Cases:
+Input 1:
+6
+Output 1:
+Perfect number
+
+Input 2:
+10
+Output 2:
+Not perfect number
+
+*/
 day22/q1.c: 
 day22/q2.c: 
 day23/q1.c: 
